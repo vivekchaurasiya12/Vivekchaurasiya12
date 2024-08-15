@@ -11,19 +11,19 @@
 
 Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Technology. I am deeply passionate about front-end development and enjoy crafting scalable, user-centric web applications.
 
-### Programming Languages
+### 🎯 Programming Languages
 
 * **C/C++**
 * **SQL**
 
-### Technologies
+### 🚀 Technologies
 
 * **HTML**
 * **CSS**
 * **JavaScript**
 * **ReactJS**
-* 
-### Tools & Platforms
+  
+### ⚒️ Tools & Platforms
 
 * **Git & GitHub**
 * **Visual Studio Code**
