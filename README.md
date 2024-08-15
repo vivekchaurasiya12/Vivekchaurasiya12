@@ -27,4 +27,4 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 
 * **Git & GitHub**
 * **Visual Studio Code**
-* **Vercel**
+
