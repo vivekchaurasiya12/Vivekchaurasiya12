@@ -1,6 +1,11 @@
 ## Hi there! I'm Vivek kumar chaurasiya 👋
-
 **Final Year Student of Raj Kumar Goel Institue Of Technology**
+
+## 📫 Connect with Me
+
+- **Email:** [vivekchaurasiyatutorials@gmail.com](mailto:vivekchaurasiyatutorials@gmail.com)
+- **LinkedIn:** [vivek kumar chaurasiya](https://www.linkedin.com/in/vivekchaurasiya12/)
+- **GitHub:** [vivekchaurasiya12](https://github.com/vivekchaurasiya12)
 
 **🌟 About Me**
 
