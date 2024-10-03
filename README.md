@@ -21,10 +21,13 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 * **HTML**
 * **CSS**
 * **JavaScript**
+* **GSAP**
 * **ReactJS**
+* **TailwindCSS**
   
 ### ⚒️ Tools & Platforms
 
 * **Git & GitHub**
 * **Visual Studio Code**
+* **Vercel**
 
