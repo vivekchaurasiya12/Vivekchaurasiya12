@@ -6,6 +6,7 @@
 - **📧 Email:** [vivekchaurasiyatutorials@gmail.com](mailto:vivekchaurasiyatutorials@gmail.com)
 - **🔗 LinkedIn:** [vivek kumar chaurasiya](https://www.linkedin.com/in/vivekkumarchaurasiya12/)
 - **💼 GitHub:** [vivek kumar chaurasiya](https://github.com/vivekchaurasiya12)
+- **🌐 Portfolio:**  [vivek kumar chaurasiya](https://vivekchaurasiya12.github.io/Portfolio/)
 
 **🌟 About Me**
 
