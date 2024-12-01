@@ -7,7 +7,7 @@
 - **🔗 LinkedIn:** [vivek kumar chaurasiya](https://www.linkedin.com/in/vivekkumarchaurasiya12/)
 - **💼 GitHub:** [vivek kumar chaurasiya](https://github.com/vivekchaurasiya12)
 - **🌐 Portfolio:**  [vivek kumar chaurasiya](https://vivekchaurasiya12.github.io/Portfolio/)
-- **💼 Resume:**  [vivek kumar chaurasiya](https://vivekchaurasiya12.github.io/Portfolio/](https://drive.google.com/file/d/1uMFIWWNLdGjf3w6NGwpZOr9dVkTuoUXX/view?usp=sharing)
+- **💼 Resume:**  [vivek kumar chaurasiya](https://drive.google.com/file/d/1uMFIWWNLdGjf3w6NGwpZOr9dVkTuoUXX/view?usp=sharing)
 
 **🌟 About Me**
 
