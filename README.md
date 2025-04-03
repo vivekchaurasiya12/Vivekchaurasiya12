@@ -37,7 +37,7 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 * **Vercel**
 * **Jest**
 
-### ⚒️ Testing & Tools
+### ⚒️ Testing
 * **Unit Testing**
 * **Integration Testing**
 
