@@ -16,6 +16,7 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 ### 🎯 Programming Languages
 
 * **C/C++**
+* **Java**
 * **SQL**
 
 ### 🚀 Technologies
@@ -25,6 +26,8 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 * **JavaScript**
 * **GSAP**
 * **ReactJS**
+* **Redux Toolkit**
+* **Context API**
 * **TailwindCSS**
   
 ### ⚒️ Tools & Platforms
@@ -32,4 +35,10 @@ Hello! I'm a final-year student at RKGIT Ghaziabad, majoring in Information Tech
 * **Git & GitHub**
 * **Visual Studio Code**
 * **Vercel**
+* **Jest**
+
+### ⚒️ Testing & Tools
+* **Unit Testing**
+* **Integration Testing**
+
 
